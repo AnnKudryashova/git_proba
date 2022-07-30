@@ -86,3 +86,9 @@ git push
 ```
 git log --graph --all
 ```
+
+## Загрузка изменений из всех веток
+
+```
+git fetch
+```
